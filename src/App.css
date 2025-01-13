@@ -30,7 +30,7 @@ input {
   width: 100%;
   height: 50px;
   font-size: 18px;
-  text-align: center;
+  text-align: left;
   margin-bottom: 15px;
   padding: 5px 10px;
   border: 2px solid #ced4da; /* Light gray border */
@@ -46,7 +46,7 @@ button {
   margin: 5px 2px; /* Small spacing between buttons */
   border: none;
   border-radius: 5px;
-  background-color: #d89126; /* Blue background */
+  background-color: #e0922a; /* Blue backgroun */
   color: #ffffff; /* White text */
   cursor: pointer;
   transition: all 0.3s ease; /* Smooth hover effect */
@@ -54,7 +54,7 @@ button {
 
 /* Hover and Active Effects for Buttons */
 button:hover {
-  background-color: #0056b3; /* Darker blue on hover */
+  background-color: #a6690d; /* Darker blue on hover */
 }
 
 button:active {
